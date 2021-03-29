@@ -1,0 +1,1 @@
+Si este archivo no existiera, la carpeta sería invisible
